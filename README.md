@@ -1,7 +1,7 @@
 # V380FTP-Telnet
 FTP and Telnet for V380 cameras, Also HTTP server
 
-V380 cameras operating system is Linux. To running FTP and Telnet server, Also HTTP server at V380 cameras do:
+V380 cameras operating system is Linux. To running FTP and Telnet server, Also HTTP server at V380 cameras (only with anyka ak3918 chipset) do:
 
 1- Place current repository files in a SD card less than 64GB which is formatted with FAT32 filesystem.
 
