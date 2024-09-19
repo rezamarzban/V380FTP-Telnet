@@ -9,8 +9,8 @@ V380 cameras operating system is Linux. To running FTP and Telnet server, Also H
 
 3- Wait couple of minutes while you hear sounds say setup is completed and etc.
 
-4- Find IP of V380 camera in your network.
+4- Find IP of V380 camera in your network, It is usually `192.168.1.1`.
 
 5- To checking servers if running navigate your browser to address: `http://IP_of_camera`, You'll see a page that show text "It is working ..." if servers are running.
 
-6- Connect to V380 camera with FTP client and Telnet with username `root` and password (Email me for password).
+6- Connect to V380 camera with FTP client and Telnet with username `root` and password `gzhongshi`.
